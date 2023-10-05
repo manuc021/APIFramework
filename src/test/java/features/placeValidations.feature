@@ -1,5 +1,5 @@
 Feature: Validating Place API's 
-
+//test
 @AddPlace
 Scenario Outline: Verify if place is being Successfully added using AddPlaceAPI 
 	Given Add Place Payload "<Name>" "<Language>" "<Address>" 
